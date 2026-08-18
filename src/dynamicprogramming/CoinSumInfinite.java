@@ -1,4 +1,4 @@
-package CoinChange;
+package dynamicprogramming;
 
 public class CoinSumInfinite {
 public int coinchange2(int[] A, int B) {
